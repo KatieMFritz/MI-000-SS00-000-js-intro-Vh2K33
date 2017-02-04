@@ -24,7 +24,7 @@ tinkButton.addEventListener('mouseenter', function () {
   tinkSound.play()
 })
 
-/* Tink */
+/* HiHat */
 
 var hihatButton = document.getElementById('hihat-button')
 var hihatSound = document.getElementById('hihat-sound')
